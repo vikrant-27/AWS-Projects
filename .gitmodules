@@ -1,0 +1,6 @@
+[submodule "Amplify-cognito-quizApp"]
+	path = Amplify-cognito-quizApp
+	url = https://github.com/vikrant-27/Amplify-cognito-quizApp.git
+[submodule "amplify-ToDo"]
+	path = amplify-ToDo
+	url = https://github.com/vikrant-27/amplify-ToDo.git
