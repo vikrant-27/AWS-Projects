@@ -4,3 +4,6 @@
 [submodule "amplify-ToDo"]
 	path = amplify-ToDo
 	url = https://github.com/vikrant-27/amplify-ToDo.git
+[submodule "AWS-S3-deepDive"]
+	path = AWS-S3-deepDive
+	url = https://github.com/vikrant-27/AWS-S3-deepDive.git
