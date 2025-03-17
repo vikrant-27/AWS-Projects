@@ -7,3 +7,6 @@
 [submodule "AWS-S3-deepDive"]
 	path = AWS-S3-deepDive
 	url = https://github.com/vikrant-27/AWS-S3-deepDive.git
+[submodule "Emotion-detection"]
+	path = Emotion-detection
+	url = https://github.com/vikrant-27/Emotion-detection.git
