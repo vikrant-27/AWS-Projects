@@ -10,3 +10,9 @@
 [submodule "Emotion-detection"]
 	path = Emotion-detection
 	url = https://github.com/vikrant-27/Emotion-detection.git
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/vikrant-27/terraform.git
+[submodule "dockerdemo"]
+	path = dockerdemo
+	url = https://github.com/vikrant-27/dockerdemo.git
